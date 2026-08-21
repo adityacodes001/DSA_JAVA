@@ -10,7 +10,6 @@ public class DistributeElementIntoTwoArrays {
 
         int size1 = 1;
         int size2 = 1;
-
         arr1[0] = nums[0];
         arr2[0] = nums[1];
 
